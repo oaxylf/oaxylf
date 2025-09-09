@@ -70,7 +70,7 @@ Welcome();
 
 <h3 align="center">Progress</h3>
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=oaxylf&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oaxylf&theme=maroongold)](https://git.io/streak-stats)
 
 ---
 
