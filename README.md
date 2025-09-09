@@ -18,10 +18,10 @@ Welcome();
   <img src="./src/photo/Profile_Photo.png" width="150" align="right">
 </div>
 
-<strong>Hobby:</strong> I usually like to read some books, writing diary, build something on my head, walking around, and absolutely watching anime after stressing out code. <br />
-<strong>Favorite Anime: </strong>[Hello World](https://hello-world-2019.fandom.com/wiki/Hello_World_(Film))<br />
+<strong>✨ Hobby:</strong> I usually like to read some books, writing diary, build something on my head, walking around, and absolutely watching anime after stressing out code. <br />
+<strong>🌴 Favorite Anime: </strong>[Hello World](https://hello-world-2019.fandom.com/wiki/Hello_World_(Film))<br />
 <br />
-<strong>Preference OS used: </strong> <br />
+<strong>🖥️ Preference OS used: </strong> <br />
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) <br />
 
 ---
@@ -44,7 +44,7 @@ Welcome();
 
 </div>
 
-<h2>Framework & Library</h2> <br>
+<h2>Framework & Library</h2>
 <img src="./src/banner/Framework_Banner.png">
 <h3 align="center">Favorited</h3>
 
