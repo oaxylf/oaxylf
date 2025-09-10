@@ -15,8 +15,10 @@ function Welcome() {
 Welcome();
 ```
 
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/887565456880324668?idleMessage=There%27s+nothing+to+do+right+now.">
+<div align="right">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xxxwtlos0fkc4xirtsp2dwchu&count=3" align="left"/>
+
+  <img src="https://lanyard.cnrad.dev/api/887565456880324668?idleMessage=There%27s+nothing+to+do+right+now." align="center">
 </div>
 
 ---
@@ -73,7 +75,7 @@ Welcome();
 <h3 align="center">Github Stats</h3>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oaxylf&show_icons=true&theme=maroongold) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oaxylf&layout=compact&theme=maroongold) 
+![oaxylf's GitHub stats](https://github-readme-stats.vercel.app/api?username=oaxylf&show_icons=true&theme=maroongold) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oaxylf&layout=compact&theme=maroongold) 
 
 <h3 align="center">Progress</h3>
 
@@ -86,6 +88,6 @@ Welcome();
 <h2>Social Media</h2>
 <div align="center">
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+<a href="https://discord.com/users/887565456880324668/">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://x.com/oaxylf">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a> <a href="https://t.me/oaxylf">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="https://www.youtube.com/@oaxylf">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a> <a href="https://instagram.com/oaxylf.dev">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://tiktok.com/@oaxylf">![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a> <a href="https://facebook.com/oaxylf.dev">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
 </div>
