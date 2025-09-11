@@ -31,7 +31,10 @@ Welcome();
 <strong>🌴 Favorite Anime: </strong>[Hello World](https://hello-world-2019.fandom.com/wiki/Hello_World_(Film))<br />
 <br />
 <strong>🖥️ Preference OS used: </strong> <br />
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) <br />
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+<br />
+![](https://komarev.com/ghpvc/?username=oaxylf)
+<br />
 
 ---
 
@@ -91,5 +94,3 @@ Welcome();
 <a href="https://discord.com/users/887565456880324668/">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://x.com/oaxylf">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a> <a href="https://t.me/oaxylf">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="https://www.youtube.com/@oaxylf">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a> <a href="https://instagram.com/oaxylf.dev">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://tiktok.com/@oaxylf">![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a> <a href="https://facebook.com/oaxylf.dev">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
 </div>
-
-![](https://komarev.com/ghpvc/?username=oaxylf) 
