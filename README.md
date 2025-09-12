@@ -10,6 +10,8 @@ function Welcome() {
     const greetings = "Greetings! I'm Ray. I am ";
     let age = 18;
     let life_now = ". Currently I am having a life on college!";
+
+    console.log(greetings, age, life_now);
 }
 
 Welcome();
